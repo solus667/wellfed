@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo dnf in pv vim -y
+sudo dnf in pv vim git curl nvim -y
 clear
 echo ""
 echo ""
